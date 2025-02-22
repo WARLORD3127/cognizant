@@ -1,0 +1,7 @@
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li a{
+    background-color: blue;
+    border-radius: 10px;
+}
